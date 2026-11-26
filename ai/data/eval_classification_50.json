@@ -1,0 +1,302 @@
+[
+  {
+    "id": "art_005",
+    "text": "RBI Raises UPI Lite Offline Transaction Cap to Rs 1,000. The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_006",
+    "text": "Central Bank Boosts UPI Lite Wallet Ceiling to Rs 5,000 for Faster Retail Payments. The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Economic Times dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_007",
+    "text": "RBI Expands Offline Digital Payment Limits Under UPI Lite Framework. The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Business Standard dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_033",
+    "text": "Gujarat LFP Battery Gigafactory Begins Commercial Cell Shipments. A 10 GWh lithium-iron-phosphate battery gigafactory in Gujarat commenced commercial cell deliveries to two-wheeler and compact electric car makers, trimming imported pack costs by nearly 14 percent. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_034",
+    "text": "Local EV Cell Manufacturing Cuts Battery Pack Costs by 14 Percent. A 10 GWh lithium-iron-phosphate battery gigafactory in Gujarat commenced commercial cell deliveries to two-wheeler and compact electric car makers, trimming imported pack costs by nearly 14 percent. (Business Standard dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_024",
+    "text": "UGC Expands Academic Bank of Credits to 420 Universities. The University Grants Commission rolled out an updated Academic Bank of Credits portal allowing engineering and humanities undergraduates to transfer verified micro-credentials and vocational internships across 420 universities. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "education"
+  },
+  {
+    "id": "art_025",
+    "text": "Students Can Now Transfer Micro-Credentials Nationwide via UGC Portal. The University Grants Commission rolled out an updated Academic Bank of Credits portal allowing engineering and humanities undergraduates to transfer verified micro-credentials and vocational internships across 420 universities. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "education"
+  },
+  {
+    "id": "art_026",
+    "text": "Updated Academic Credit Bank Integrates Vocational Internships. The University Grants Commission rolled out an updated Academic Bank of Credits portal allowing engineering and humanities undergraduates to transfer verified micro-credentials and vocational internships across 420 universities. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "education"
+  },
+  {
+    "id": "art_051",
+    "text": "Government School Teams Win Top Honors at National Robotics Olympiad. Teams from government residential schools in Karnataka, Odisha, and Maharashtra claimed four of the top six medals at the National School Robotics and Algorithms Olympiad in Pune. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "education"
+  },
+  {
+    "id": "art_052",
+    "text": "Karnataka and Odisha Students Shine in Pune Algorithms Finals. Teams from government residential schools in Karnataka, Odisha, and Maharashtra claimed four of the top six medals at the National School Robotics and Algorithms Olympiad in Pune. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "education"
+  },
+  {
+    "id": "art_027",
+    "text": "Regional Indie Filmmakers Lead Indian Panorama Lineup in Goa. Twelve debut directors from Kannada, Malayalam, Marathi, and Assamese cinema secured premiere slots in the Indian Panorama competition, highlighting a shift toward small-budget character dramas. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "entertainment"
+  },
+  {
+    "id": "art_028",
+    "text": "Kannada and Malayalam Debuts Shine in Film Festival Selection. Twelve debut directors from Kannada, Malayalam, Marathi, and Assamese cinema secured premiere slots in the Indian Panorama competition, highlighting a shift toward small-budget character dramas. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "entertainment"
+  },
+  {
+    "id": "art_029",
+    "text": "Independent Regional Cinema Takes Center Stage at Annual Film Festival. Twelve debut directors from Kannada, Malayalam, Marathi, and Assamese cinema secured premiere slots in the Indian Panorama competition, highlighting a shift toward small-budget character dramas. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "entertainment"
+  },
+  {
+    "id": "art_057",
+    "text": "Regional Mystery Audiobooks Post 64 Percent Listener Growth. Audio streaming platforms noted a 64 percent year-on-year rise in Kannada, Hindi, and Tamil serialized detective fiction, driven by daily urban metro commuters. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "entertainment"
+  },
+  {
+    "id": "art_058",
+    "text": "Commuters Drive Surge in Kannada and Hindi Audio Fiction. Audio streaming platforms noted a 64 percent year-on-year rise in Kannada, Hindi, and Tamil serialized detective fiction, driven by daily urban metro commuters. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "entertainment"
+  },
+  {
+    "id": "art_021",
+    "text": "Phase 3 Dengue Vaccine Trial Shows 81 Percent Efficacy Across 18 Centers. Researchers running a 10,000-participant Phase 3 clinical trial across 18 Indian medical centers reported 81 percent overall efficacy against symptomatic dengue across all four serotypes with no severe safety signals. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "health"
+  },
+  {
+    "id": "art_022",
+    "text": "Multi-City Clinical Study Delivers Promising Dengue Vaccine Results. Researchers running a 10,000-participant Phase 3 clinical trial across 18 Indian medical centers reported 81 percent overall efficacy against symptomatic dengue across all four serotypes with no severe safety signals. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "health"
+  },
+  {
+    "id": "art_023",
+    "text": "New Single-Dose Dengue Candidate Achieves Strong Phase 3 Protection. Researchers running a 10,000-participant Phase 3 clinical trial across 18 Indian medical centers reported 81 percent overall efficacy against symptomatic dengue across all four serotypes with no severe safety signals. (BBC dispatch).",
+    "language": "en",
+    "true_topic": "health"
+  },
+  {
+    "id": "art_048",
+    "text": "Public Telemedicine Network Crosses 250 Million Rural Consultations. Public primary health centers connected to district specialists via low-bandwidth teleconsultation hubs surpassed 250 million cumulative patient visits, cutting specialist travel time in hill districts. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "health"
+  },
+  {
+    "id": "art_049",
+    "text": "Low-Bandwidth Telehealth Hubs Expand Specialist Care in Rural Districts. Public primary health centers connected to district specialists via low-bandwidth teleconsultation hubs surpassed 250 million cumulative patient visits, cutting specialist travel time in hill districts. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "health"
+  },
+  {
+    "id": "art_008",
+    "text": "Bengaluru Metro Yellow Line Completes Final Signaling Safety Trials. Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "india"
+  },
+  {
+    "id": "art_009",
+    "text": "BMRCL Wraps Up Driverless CBTC Testing on Electronics City Corridor. Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "india"
+  },
+  {
+    "id": "art_010",
+    "text": "Yellow Line Metro Awaits Final Safety Nod After Signaling Trials. Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "india"
+  },
+  {
+    "id": "art_054",
+    "text": "Dedicated Freight Corridor Cuts Port-to-NCR Cargo Transit to 26 Hours. Western Dedicated Freight Corridor operations reduced average double-stack container transit times between Mundra port and the National Capital Region from 68 hours to 26 hours. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "india"
+  },
+  {
+    "id": "art_055",
+    "text": "Western Rail Freight Corridor Doubles Average Container Speeds. Western Dedicated Freight Corridor operations reduced average double-stack container transit times between Mundra port and the National Capital Region from 68 hours to 26 hours. (Business Standard dispatch).",
+    "language": "en",
+    "true_topic": "india"
+  },
+  {
+    "id": "art_001",
+    "text": "ISRO Completes 200-Second Cryogenic Engine Hot Test at Mahendragiri. The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_002",
+    "text": "Mahendragiri Facility Clears CE-20 Cryogenic Test for Upcoming LVM3 Flight. The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Deccan Herald dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_003",
+    "text": "ISRO Validates Upgraded CE-20 Cryogenic Stage in Key Hot Fire Test. The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_004",
+    "text": "India's Space Agency Passes Crucial Cryogenic Propulsion Milestone. The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Reuters dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_036",
+    "text": "James Webb Telescope Detects Water Vapor and Methane on Nearby Exoplanet. Astronomers analyzing James Webb Space Telescope transmission spectra confirmed clear signatures of water vapor and atmospheric methane on a sub-Neptune exoplanet 110 light-years away. (ScienceDaily dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_015",
+    "text": "India Pacers Strike Late to Seal 48-Run Victory in Perth Opener. India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (ESPNcricinfo dispatch).",
+    "language": "en",
+    "true_topic": "sports"
+  },
+  {
+    "id": "art_016",
+    "text": "Clinical Pace Bowling Gives India 1-0 Series Lead in Perth. India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "sports"
+  },
+  {
+    "id": "art_017",
+    "text": "Seamers Deliver Memorable Final-Session Win for India at Perth. India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "sports"
+  },
+  {
+    "id": "art_042",
+    "text": "Women's Football League Expands to 12 Clubs With Youth Academy Rule. The football federation approved expansion of the top-tier women's league to 12 clubs starting next season, requiring every franchise to operate U-17 regional development academies. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "sports"
+  },
+  {
+    "id": "art_043",
+    "text": "Football Federation Clears 12-Team Top Tier Women's Season. The football federation approved expansion of the top-tier women's league to 12 clubs starting next season, requiring every franchise to operate U-17 regional development academies. (Indian Express dispatch).",
+    "language": "en",
+    "true_topic": "sports"
+  },
+  {
+    "id": "art_011",
+    "text": "Semiconductor Alliance Unveils Sub-5W Open RISC-V Edge AI Accelerator. A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (TechCrunch dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_012",
+    "text": "New Open Neural Chip Design Promises 40 TOPS Under Five Watts. A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Ars Technica dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_013",
+    "text": "Edge AI Chip Consortium Targets Low-Power On-Device Inference. A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_014",
+    "text": "Chip Startups Back Open RISC-V Standard for Mobile AI Processing. A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Reuters dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_030",
+    "text": "Quantum Key Distribution Runs Across 180 km of Commercial Metro Fiber. Researchers successfully transmitted tamper-evident quantum encryption keys across 180 kilometers of live metropolitan fiber-optic cable without cryogenic repeaters, bringing quantum-safe banking links closer to deployment. (Ars Technica dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_018",
+    "text": "Climate Negotiators Back Concessional Grid-Storage Fund for Emerging Markets. Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (Reuters dispatch).",
+    "language": "en",
+    "true_topic": "world"
+  },
+  {
+    "id": "art_019",
+    "text": "140 Nations Agree on Clean Grid Battery Financing Framework. Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (BBC dispatch).",
+    "language": "en",
+    "true_topic": "world"
+  },
+  {
+    "id": "art_020",
+    "text": "Global Summit Unlocks New Capital for Renewable Grid Storage. Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (The Hindu dispatch).",
+    "language": "en",
+    "true_topic": "world"
+  },
+  {
+    "id": "art_045",
+    "text": "European Nations Launch Joint Drone Patrols for Subsea Internet Cables. Twelve coastal nations initiated joint autonomous underwater drone patrols to monitor subsea fiber-optic cables and offshore energy interconnectors across the North and Baltic seas. (Reuters dispatch).",
+    "language": "en",
+    "true_topic": "world"
+  },
+  {
+    "id": "art_046",
+    "text": "Twelve Coastal States Coordinate Protection of Undersea Fiber Links. Twelve coastal nations initiated joint autonomous underwater drone patrols to monitor subsea fiber-optic cables and offshore energy interconnectors across the North and Baltic seas. (BBC dispatch).",
+    "language": "en",
+    "true_topic": "world"
+  },
+  {
+    "id": "art_031",
+    "text": "Telecom Researchers Achieve 180-km Quantum-Safe Fiber Link. Researchers successfully transmitted tamper-evident quantum encryption keys across 180 kilometers of live metropolitan fiber-optic cable without cryogenic repeaters, bringing quantum-safe banking links closer to deployment. (TechCrunch dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_032",
+    "text": "Quantum Encryption Test Over Live Fiber Sets Domestic Distance Record. Researchers successfully transmitted tamper-evident quantum encryption keys across 180 kilometers of live metropolitan fiber-optic cable without cryogenic repeaters, bringing quantum-safe banking links closer to deployment. (Mint dispatch).",
+    "language": "en",
+    "true_topic": "technology"
+  },
+  {
+    "id": "art_035",
+    "text": "10 GWh Domestic LFP Plant Starts Supplying Indian EV Automakers. A 10 GWh lithium-iron-phosphate battery gigafactory in Gujarat commenced commercial cell deliveries to two-wheeler and compact electric car makers, trimming imported pack costs by nearly 14 percent. (Economic Times dispatch).",
+    "language": "en",
+    "true_topic": "business"
+  },
+  {
+    "id": "art_037",
+    "text": "Webb Spectra Reveal Atmospheric Water Signatures 110 Light-Years Away. Astronomers analyzing James Webb Space Telescope transmission spectra confirmed clear signatures of water vapor and atmospheric methane on a sub-Neptune exoplanet 110 light-years away. (BBC dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  },
+  {
+    "id": "art_038",
+    "text": "Astronomers Spot Methane and Water Vapor in Temperate Exoplanet Atmosphere. Astronomers analyzing James Webb Space Telescope transmission spectra confirmed clear signatures of water vapor and atmospheric methane on a sub-Neptune exoplanet 110 light-years away. (Reuters dispatch).",
+    "language": "en",
+    "true_topic": "science"
+  }
+]

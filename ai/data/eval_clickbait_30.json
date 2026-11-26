@@ -1,0 +1,182 @@
+[
+  {
+    "id": "art_163",
+    "title": "YOU WON'T BELIEVE What This Secret Smartphone Setting Does To Your Battery!!",
+    "body": "A routine software update adjusts background refresh intervals by about four percent over an eight-hour standby window according to standard developer documentation.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_164",
+    "title": "SHOCKING!! Doctors HATE This One Weird Morning Water Habit?!",
+    "body": "Staying adequately hydrated after waking up supports normal kidney function and mild alertness, nutritionists explain in standard dietary guidelines.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_165",
+    "title": "7 SECRETS Banks Don't Want You To Know About Savings Accounts!!",
+    "body": "Comparing annual percentage yields and checking whether monthly maintenance fees apply are basic steps when opening a deposit account.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_166",
+    "title": "JAW-DROPPING! What Happened Next On Set Broke The Internet!!",
+    "body": "A scheduled behind-the-scenes lighting rehearsal lasted fifteen minutes longer than planned before the cast resumed normal filming.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_167",
+    "title": "UNBELIEVABLE Space Discovery That Changes EVERYTHING Forever?!",
+    "body": "Astronomers cataloged a faint asteroid passing safely four million kilometers beyond lunar orbit during routine sky surveys.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_168",
+    "title": "INSANE Locker Room Move Nobody Expected Before Kickoff!!",
+    "body": "The coaching staff rotated two midfield substitutes during pre-match warmups to manage minor hamstring soreness.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_169",
+    "title": "EXPOSED: The MIND-BLOWING Reason Your Wi-Fi Slows Down At Night!!",
+    "body": "Higher household video streaming traffic during evening hours shares available router bandwidth across connected devices.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_170",
+    "title": "You Need To See This SHOCKING Traffic Rule Change Right Now!!",
+    "body": "Municipal traffic police installed clearer lane markings and reflective signage along two ring road junctions ahead of roadworks.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_171",
+    "title": "THIS ONE TRICK Top Students Use That Universities Never Mention?!",
+    "body": "Reviewing lecture notes within twenty-four hours and practicing spaced recall improves long-term exam retention.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_172",
+    "title": "BOMBSHELL Flight Delay Secret Airlines Are Hiding From Passengers!!",
+    "body": "Winter runway de-icing procedures and air traffic spacing regularly add ten to twenty minutes to departure schedules.",
+    "is_clickbait": true
+  },
+  {
+    "id": "art_001",
+    "title": "ISRO Completes 200-Second Cryogenic Engine Hot Test at Mahendragiri",
+    "body": "The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (The Hindu dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_002",
+    "title": "Mahendragiri Facility Clears CE-20 Cryogenic Test for Upcoming LVM3 Flight",
+    "body": "The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Deccan Herald dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_003",
+    "title": "ISRO Validates Upgraded CE-20 Cryogenic Stage in Key Hot Fire Test",
+    "body": "The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Indian Express dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_004",
+    "title": "India's Space Agency Passes Crucial Cryogenic Propulsion Milestone",
+    "body": "The Indian Space Research Organisation successfully conducted a 200-second flight-acceptance hot test of the upgraded CE-20 cryogenic engine at its Mahendragiri propulsion complex in Tamil Nadu. Engineers verified throttle modulation and chamber pressure stability ahead of upcoming Gaganyaan and heavy-lift LVM3 commercial missions. (Reuters dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_005",
+    "title": "RBI Raises UPI Lite Offline Transaction Cap to Rs 1,000",
+    "body": "The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Mint dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_006",
+    "title": "Central Bank Boosts UPI Lite Wallet Ceiling to Rs 5,000 for Faster Retail Payments",
+    "body": "The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Economic Times dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_007",
+    "title": "RBI Expands Offline Digital Payment Limits Under UPI Lite Framework",
+    "body": "The Reserve Bank of India raised the per-transaction limit for UPI Lite offline wallets to Rs 1,000 and total wallet balance to Rs 5,000 to accelerate low-value retail payments in semi-urban corridors without PIN friction. (Business Standard dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_008",
+    "title": "Bengaluru Metro Yellow Line Completes Final Signaling Safety Trials",
+    "body": "Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (Deccan Herald dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_009",
+    "title": "BMRCL Wraps Up Driverless CBTC Testing on Electronics City Corridor",
+    "body": "Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (The Hindu dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_010",
+    "title": "Yellow Line Metro Awaits Final Safety Nod After Signaling Trials",
+    "body": "Bangalore Metro Rail Corporation Limited wrapped up driverless CBTC signaling trials along the 19-km RV Road to Bommasandra Yellow Line corridor, clearing the path for Commissioner of Metro Railway Safety inspection this month. (Indian Express dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_011",
+    "title": "Semiconductor Alliance Unveils Sub-5W Open RISC-V Edge AI Accelerator",
+    "body": "A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (TechCrunch dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_012",
+    "title": "New Open Neural Chip Design Promises 40 TOPS Under Five Watts",
+    "body": "A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Ars Technica dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_013",
+    "title": "Edge AI Chip Consortium Targets Low-Power On-Device Inference",
+    "body": "A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Mint dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_014",
+    "title": "Chip Startups Back Open RISC-V Standard for Mobile AI Processing",
+    "body": "A consortium of semiconductor startups and university labs unveiled an open RISC-V neural accelerator architecture delivering 40 TOPS under a 5-watt envelope for smartphones, drones, and offline translation devices. (Reuters dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_015",
+    "title": "India Pacers Strike Late to Seal 48-Run Victory in Perth Opener",
+    "body": "India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (ESPNcricinfo dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_016",
+    "title": "Clinical Pace Bowling Gives India 1-0 Series Lead in Perth",
+    "body": "India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (The Hindu dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_017",
+    "title": "Seamers Deliver Memorable Final-Session Win for India at Perth",
+    "body": "India's pace attack claimed seven wickets in the final session at Perth to wrap up a 48-run win in the opening Test match, backed by a disciplined fourth-innings defense and sharp slip catching. (Indian Express dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_018",
+    "title": "Climate Negotiators Back Concessional Grid-Storage Fund for Emerging Markets",
+    "body": "Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (Reuters dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_019",
+    "title": "140 Nations Agree on Clean Grid Battery Financing Framework",
+    "body": "Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (BBC dispatch).",
+    "is_clickbait": false
+  },
+  {
+    "id": "art_020",
+    "title": "Global Summit Unlocks New Capital for Renewable Grid Storage",
+    "body": "Delegates from 140 countries reached consensus on a concessional clean-grid and battery storage financing facility aimed at helping emerging economies integrate solar and wind generation before 2030. (The Hindu dispatch).",
+    "is_clickbait": false
+  }
+]
